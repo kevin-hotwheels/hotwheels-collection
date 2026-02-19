@@ -1,24 +1,13 @@
 [
   {
-    "country": "japon",
-    "brand": "nissan",
-    "model": "skyline GTR 34",
+    "country": "Japon",
+    "brand": "Mazda",
+    "model": "Rx7",
     "images": [
-      "https://images.unsplash.com/photo-1605559424843-9e4c228bf1c2?w=500"
+      "https://imgur.com/a/OEexkvI"
     ],
     "year": "",
-    "series": "",
-    "notes": ""
-  },
-  {
-    "country": "japon",
-    "brand": "toyota",
-    "model": "supra mk3",
-    "images": [
-      "https://images.unsplash.com/photo-1555215695-3004980ad54e?w=500"
-    ],
-    "year": "",
-    "series": "",
+    "series": "Falken",
     "notes": ""
   }
 ]
