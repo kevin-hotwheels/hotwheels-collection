@@ -1,13 +1,16 @@
 [
   {
     "country": "Japon",
-    "brand": "Mazda",
-    "model": "Rx7",
+    "brand": "Datsun",
+    "model": "240z",
     "images": [
-      "https://imgur.com/a/OEexkvI"
+      "https://imgur.com/a/ap0kK9B#7WGHgXL",
+      "https://imgur.com/a/ap0kK9B#5mWf0Kr",
+      "https://imgur.com/a/ap0kK9B#OlwioYl",
+      "https://imgur.com/a/ap0kK9B#19YhSxG"
     ],
-    "year": "",
-    "series": "Falken",
-    "notes": ""
+    "year": "1972",
+    "series": "BreDatsun",
+    "notes": "Motor: L24 — 6 cilindros en línea\nCilindrada: 2.4 litros\nPotencia: ~151 hp\nTracción: Trasera (RWD)\nTransmisión: Manual 4 o 5 velocidades\n0-100 km/h: ~8 segundos (rápido para su época)\nVelocidad máxima: ~200 km/h\n\nEl Datsun 240Z (1972) no es solo un auto bonito… es un antes y un después en la historia del automovilismo. Fue el modelo que hizo que el mundo empezara a tomar en serio a Japón en el segmento deportivo."
   }
 ]
